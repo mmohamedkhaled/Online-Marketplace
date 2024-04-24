@@ -38,7 +38,5 @@ This project depends on C++ standard libraries for input/output and STL containe
 - `Order.h` and `Order.cpp`: Define and implement the Order class for generating orders.
 - `Discounts.h` and `Discounts.cpp`: Define and implement the Discounts class for applying discounts.
 
-## Original Draft
 
-The original draft of the code is provided in a single .cpp file containing all the ideas and initial implementation. It has been modularized and structured into separate header and source files for better organization and readability.
 
